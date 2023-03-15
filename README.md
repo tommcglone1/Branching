@@ -4,6 +4,9 @@ Git Cheat sheet and branching practice
 
 yeah yeah yeah
 
+blah blah blah
+
+
 ### Basic Commands
 
 * `git init` - initilize local git repo
