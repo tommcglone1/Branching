@@ -25,6 +25,7 @@ blah blah blah
 * `git branch` -list local branches
 * `git branch` - create local branch `branchName`
 * `git checkout branchName` - switch to branch `branchName` 
+* `git checkout branchName` - create and switch to branch `branchName` 
 
 ### Remote Commands
 * `git remote add origin repoUrl` - create alias `origin` for remote repo `repoUrl`
